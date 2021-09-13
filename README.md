@@ -1,4 +1,4 @@
 # kompas-jkn
-Aplikasi pengaduan layanan BPJS
+Sebuah Aplikasi
 
 #BPJSKesehatanHackathon2021
